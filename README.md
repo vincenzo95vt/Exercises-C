@@ -1,2 +1,2 @@
-# exercises-C01
+# exercises-C Language
 Exercises about C language.
